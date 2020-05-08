@@ -40,4 +40,10 @@ var store = [{
         "tags": ["Jekyll","update"],
         "url": "http://localhost:4000/blog/welcome-to-jekyll/",
         "teaser": null
+      },{
+        "title": "Why are we creating this organization?",
+        "excerpt":"Why are we creating this organization? This is a personal question for each member in our organization, but let me attempt to answer with my own motivation. I know that I am who I am today only because of the people who have helped shape and guide me over many...","categories": ["blog"],
+        "tags": ["Jekyll","update"],
+        "url": "http://localhost:4000/blog/why-create/",
+        "teaser": null
       }]

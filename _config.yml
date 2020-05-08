@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Data Science 4 Good"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/Paul-labs-logo.png" 
   bio    : "Leveraging data science expertise for the good of our communities."
   links:
     - label: "Website"
@@ -69,7 +69,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/data-science-for-good"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
