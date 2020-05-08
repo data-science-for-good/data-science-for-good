@@ -12,4 +12,18 @@ Paul Anderson, Ph.D., Department of Computer Science and Engineering, Cal Poly
 
 Dylan Gross, Computer Science Senior - Cal Poly, Volunteer Researcher at [CoronaWhy](https://www.coronawhy.org)
 
-Please put your name here
+Alberto Rodriguez
+
+Erik Christensen
+
+Jack Kooley
+
+Jinchi Zhou
+
+Matthew O'Connell
+
+Nicole Schwartz
+
+Viet Nguyen
+
+William Hitchcock
