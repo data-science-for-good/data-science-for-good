@@ -9,5 +9,7 @@ Our mission is to leverage our thriving Data Science community at Cal Poly to en
 
 # People
 Paul Anderson, Ph.D., Department of Computer Science and Engineering, Cal Poly
+
 Dylan Gross, Computer Science Senior - Cal Poly, Researcher at CoronaWhy (coronawhy.org)
+
 Please put your name here
