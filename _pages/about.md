@@ -10,6 +10,6 @@ Our mission is to leverage our thriving Data Science community at Cal Poly to en
 # People
 Paul Anderson, Ph.D., Department of Computer Science and Engineering, Cal Poly
 
-Dylan Gross, Computer Science Senior - Cal Poly, Volunteer Researcher at [CoronaWhy](coronawhy.org)
+Dylan Gross, Computer Science Senior - Cal Poly, Volunteer Researcher at [CoronaWhy](https://www.coronawhy.org)
 
 Please put your name here
