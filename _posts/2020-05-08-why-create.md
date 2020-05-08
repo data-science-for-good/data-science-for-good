@@ -8,8 +8,6 @@ tags:
   - update
 ---
 
-*Why are we creating this organization?*
-
 This is a personal question for each member in our organization, but let me attempt to answer with my own motivation. I know that I am
 who I am today only because of the people who have helped shape and guide me over many years and through many hours of mentorship. In these
 scary times I find myself often thinking of all those people. Thinking about my wife, Kaitlin, who is a nurse practitioner out there making sure 
